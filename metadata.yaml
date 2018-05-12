@@ -1,0 +1,37 @@
+_repo: Japanische-M-rchen_23393
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Alberti, Karl
+    gutenberg_agent_id: '25819'
+    url: http://www.gutenberg.org/2009/agents/25819
+covers:
+- cover_type: archival
+  image_path: 23393-h/images/cover_old_sm.jpg
+description: ''
+gutenberg_bookshelf:
+- DE Kinderbuch
+- Folklore
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23393'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Folklore -- Japan'
+tableOfContents: Juki-onna -- Der weiße Fuchs -- Urashima Taro -- Wenn man mit Kobolden
+  tanzt -- Neid bringt Leid -- Der schlaue Polizist -- Der Abt des Klosters Yakhusi
+  -- List geht über Gewalt -- Die Kröte von Osaka und die von Kyoto -- Der Affe und
+  der Sake -- Die Auster -- Der Sperling mit abgeschnittener Zunge -- Die geplagte
+  Krabbe -- Der kluge Hase -- Maorigashima -- Der Hase und der Dachs -- Schlauheit
+  schützt nicht vor Täuschung -- Der bedächtige Reiher -- Belohnte -- Kindesliebe
+  -- Der bestrafte Tierquäler -- Rai-taro -- Hotaru -- Horaisan -- Die Wünsche des
+  Steinhauers
+title: Japanische Märchen
+url: http://www.gutenberg.org/ebooks/23393
