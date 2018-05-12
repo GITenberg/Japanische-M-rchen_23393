@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 23393-h/images/cover_old_sm.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23393#Japanische-M-rchen
 gutenberg_bookshelf:
 - DE Kinderbuch
 - Folklore
